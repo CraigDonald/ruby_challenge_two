@@ -197,4 +197,8 @@ class Cohort
     days_between = (edate - sdate).to_i
     return days_between
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 04cf825 (Chap 2 challenges)

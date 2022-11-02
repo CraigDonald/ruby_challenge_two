@@ -250,4 +250,8 @@ end
 
 def key_value_swap(hash = {})
   return hash.invert
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 04cf825 (Chap 2 challenges)
